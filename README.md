@@ -255,6 +255,10 @@ own applications.
 Contributions are accepted under the same Apache-2.0 license; see
 `CONTRIBUTING.md`. Maintainer release steps are documented in `RELEASE.md`.
 
+## Disclaimer
+
+This is an independent open-source project developed in my personal time and is not affiliated with my employer.
+
 ## References
 
 Useful background and comparison points include:
