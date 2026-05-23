@@ -10,6 +10,7 @@ sys.path.insert(0, str(ROOT / "src"))
 
 project = "cholrot"
 author = "Shohruh Miryusupov"
+copyright = "2026, Shohruh Miryusupov"
 release = importlib.metadata.version("cholrot")
 version = release
 
