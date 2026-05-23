@@ -1,0 +1,17 @@
+numpy>=1.23
+
+[dev]
+pytest>=7
+build>=1
+twine>=5
+cibuildwheel>=3
+pybind11>=2.12
+sphinx>=7
+furo>=2024.1
+
+[docs]
+sphinx>=7
+furo>=2024.1
+
+[test]
+pytest>=7

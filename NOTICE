@@ -1,0 +1,9 @@
+cholrot
+Copyright 2026 Shohruh Miryusupov
+
+This product includes software developed by Shohruh Miryusupov.
+
+cholrot implements rank-one Cholesky update and downdate routines, direct
+modified-factor products, and rank-one modified Cholesky solves. The package is
+provided for research and engineering use without warranty. Users are
+responsible for validating numerical behavior in their own applications.

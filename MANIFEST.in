@@ -1,0 +1,15 @@
+include LICENSE
+include README.md
+include setup.py
+include pyproject.toml
+recursive-include src/cholrot *.py *.cpp
+recursive-include tests *.py
+recursive-include benchmarks *.py
+
+include NOTICE
+include CONTRIBUTING.md
+include RELEASE.md
+include .gitignore
+include .readthedocs.yaml
+recursive-include docs *.rst *.py Makefile
+recursive-include .github/workflows *.yml
