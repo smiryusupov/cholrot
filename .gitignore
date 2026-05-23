@@ -1,0 +1,65 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+*.dylib
+*.a
+*.o
+*.obj
+
+# C/C++ build folders
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+_compile_commands.json
+compile_commands.json
+
+# Sphinx / docs builds
+docs/_build/
+docs/_autosummary/
+docs/generated/
+
+# Benchmark outputs
+benchmarks/results/*.csv
+benchmarks/results/*.json
+benchmarks/results/*.png
+benchmarks/results/*.pdf
+
+# Local notebooks / experiments
+.ipynb_checkpoints/
+*.ipynb
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
