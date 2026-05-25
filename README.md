@@ -1,5 +1,7 @@
 # cholrot
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20382065.svg)](https://doi.org/10.5281/zenodo.20382065)
+
 `cholrot` is a small experimental NumPy package for **rank-one Cholesky
 updates/downdates**, **implicit modified-factor products**, and **rank-one
 modified Cholesky solves**.
@@ -269,3 +271,8 @@ Useful background and comparison points include:
 - JAX `jax.lax.linalg.cholesky_update`.
 - TensorFlow Probability `tfp.math.cholesky_update`.
 
+## Citation
+
+If you use `cholrot`, please cite the archived Zenodo release:
+
+Miryusupov, S. (2026). *cholrot: Rank-one Cholesky update/downdate routines for Python/C++* (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.20382065

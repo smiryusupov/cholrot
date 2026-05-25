@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use cholrot, please cite this software."
+title: "cholrot: Rank-one Cholesky update/downdate routines for Python/C++"
+version: "0.1.1"
+doi: 10.5281/zenodo.20382065
+date-released: 2026-05-25
+authors:
+  - family-names: Miryusupov
+    given-names: Shohruh
+license: Apache-2.0
+repository-code: "https://github.com/smiryusupov/cholrot"
+type: software
