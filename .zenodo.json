@@ -1,0 +1,32 @@
+{
+  "title": "cholrot: Rank-one Cholesky update/downdate routines for Python/C++",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Miryusupov, Shohruh"
+    }
+  ],
+  "description": "cholrot is a small experimental NumPy package for rank-one Cholesky updates and downdates, implicit modified-factor products, log-determinant updates, and rank-one modified Cholesky solves. It provides Python and C++/pybind11 implementations focused on avoiding unnecessary materialization in rank-one modified workflows.",
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "keywords": [
+    "cholesky",
+    "rank-one update",
+    "downdate",
+    "hyperbolic rotations",
+    "numerical linear algebra",
+    "python",
+    "cpp",
+    "numpy",
+    "pybind11"
+  ],
+  "language": "eng",
+  "version": "0.1.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/smiryusupov/cholrot",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
