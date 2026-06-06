@@ -1,5 +1,13 @@
 # cholrot
 
+# cholrot
+
+[![PyPI](https://img.shields.io/pypi/v/cholrot.svg)](https://pypi.org/project/cholrot/)
+[![Python](https://img.shields.io/pypi/pyversions/cholrot.svg)](https://pypi.org/project/cholrot/)
+[![Docs](https://readthedocs.org/projects/cholrot/badge/?version=latest)](https://cholrot.readthedocs.io/en/latest/)
+[![CI](https://github.com/smiryusupov/cholrot/actions/workflows/tests.yml/badge.svg)](https://github.com/smiryusupov/cholrot/actions/workflows/tests.yml)
+[![Wheels](https://github.com/smiryusupov/cholrot/actions/workflows/wheels.yml/badge.svg)](https://github.com/smiryusupov/cholrot/actions/workflows/wheels.yml)
+[![License](https://img.shields.io/pypi/l/cholrot.svg)](https://github.com/smiryusupov/cholrot/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20382065.svg)](https://doi.org/10.5281/zenodo.20382065)
 
 `cholrot` is a small experimental NumPy package for **rank-one Cholesky
